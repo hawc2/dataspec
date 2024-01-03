@@ -1,0 +1,18 @@
+baseURL = '/'
+languageCode = 'en-us'
+title = 'Data Speculations'
+theme = "gohugo-theme-ananke"
+canonifyURLS=true
+[menu]
+[[menu.main]]
+  name = 'About'
+  pageRef = '_index.md'
+  weight = 1
+[[menu.main]]
+  name = 'People'
+  pageRef = '/People'
+  weight = 2
+[[menu.main]]
+  name = 'Scholarship'
+  pageRef = '/Scholarship'
+  weight = 3
