@@ -1,4 +1,4 @@
-baseURL = '//dataspeculations.org/'
+baseURL = 'https://dataspeculations.org/'
 languageCode = 'en-us'
 title = 'Data Speculations'
 theme = "gohugo-theme-ananke"
