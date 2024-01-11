@@ -14,5 +14,5 @@ canonifyURLS=true
   weight = 2
 [[menu.main]]
   name = 'Scholarship'
-  pageRef = '/scholarship/'
+  pageRef = '/scholarship'
   weight = 3
