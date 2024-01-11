@@ -2,7 +2,7 @@ baseURL = 'https://dataspeculations.org/'
 languageCode = 'en-us'
 title = 'Data Speculations'
 theme = "gohugo-theme-ananke"
-canonifyURLS=false
+canonifyURLS=true
 [menu]
 [[menu.main]]
   name = 'About'
