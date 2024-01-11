@@ -14,5 +14,5 @@ canonifyURLS=true
   weight = 2
 [[menu.main]]
   name = 'Scholarship'
-  pageRef = '/Scholarship/'
+  pageRef = 'https://dataspeculations.org/scholarship/'
   weight = 3
