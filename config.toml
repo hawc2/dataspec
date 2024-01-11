@@ -10,7 +10,7 @@ canonifyURLS=true
   weight = 1
 [[menu.main]]
   name = 'People'
-  pageRef = '/People/_index.md'
+  pageRef = 'people'
   weight = 2
 [[menu.main]]
   name = 'Scholarship'
