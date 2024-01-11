@@ -1,4 +1,4 @@
-baseURL = '/'
+baseURL = 'https://dataspeculations.org/'
 languageCode = 'en-us'
 title = 'Data Speculations'
 theme = "gohugo-theme-ananke"
@@ -14,5 +14,5 @@ canonifyURLS=false
   weight = 2
 [[menu.main]]
   name = 'Scholarship'
-  pageRef = 'https://dataspeculations.org/scholarship/'
+  pageRef = '/scholarship/'
   weight = 3
