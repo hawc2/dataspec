@@ -12,7 +12,7 @@ Data Speculations: A National Forum will bring together a wide range of scholars
 
 ## Organizers
 
-* [Sarah Potvin, Digital Scholarship Librarian, Texas A&M Libraries](https://liberalarts.tamu.edu/english/profile/sarah-potvin/)
+* [Sarah Potvin, Associate Professor of English, Texas A&M University](https://liberalarts.tamu.edu/english/profile/sarah-potvin/)
 
 * [Alex Wermer-Colan, Interim Academic Director, Loretta C. Duckworth Scholars Studio](https://library.temple.edu/people/alex-wermer-colan-ph-d)
 
