@@ -1,6 +1,6 @@
 ---
 title: "About"
-description: 
+description: "About page for National Forum"
 cascade:
   featured_image: '/images/galaxy.jpeg'
 menu:
