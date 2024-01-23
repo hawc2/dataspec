@@ -1,11 +1,11 @@
 ---
 title: "Scholarship"
-description: 
+description: "Relevant scholarship to the National Forum"
 cascade:
   featured_image: '/images/about_1.jpeg'
 menu:
   main:
-    weight: 1
+    weight: 3
 ---
 
 Relevant scholarship to the National Forum includes recent work in copyright law, digital humanities, and related fields in GLAM. 
