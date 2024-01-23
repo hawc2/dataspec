@@ -5,7 +5,7 @@ cascade:
   featured_image: '/images/books.jpg'
 menu:
   main:
-    weight: 1
+    weight: 2
 ---
 
 Data Speculations: A National Forum will bring together a wide range of scholars and practitioners to discuss the future of computational access to copyrighted data.
