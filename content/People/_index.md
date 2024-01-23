@@ -1,6 +1,6 @@
 ---
 title: "People"
-description: 
+description: "People involved with the National Forum"
 cascade:
   featured_image: '/images/books.jpg'
 menu:
