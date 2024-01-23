@@ -1,19 +1,18 @@
-baseURL = '//dataspeculations.org/'
+baseURL = '/'
 languageCode = 'en-us'
 title = 'Data Speculations'
 theme = "gohugo-theme-ananke"
 canonifyURLS = true
-enableRobotsTXT = true
 [menu]
 [[menu.main]]
   name = 'About'
-  pageRef = '/about/'
+  pageRef = '/about'
   weight = 1
 [[menu.main]]
   name = 'People'
-  pageRef = '/people/'
+  pageRef = '/people'
   weight = 2
 [[menu.main]]
   name = 'Scholarship'
-  pageRef = '/scholarship/'
+  pageRef = '/scholarship'
   weight = 3
