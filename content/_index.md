@@ -8,4 +8,4 @@ Data Speculations is an IMLS sponsored National Forum, bringing together special
 
 The National Forum will take place in the winter of 2025. Over the next year, the stakeholders will be conducting an environmental scan and identifying additional participants in the forum. 
 
-Plans for the forum will be shared here in the coming months.
+Plans for the forum will be shared here in the coming months. Stay tuned!
