@@ -7,7 +7,7 @@ cascade:
 
 # Overviewing the Forum
 
-Data Speculations is a National Forum sponsored by the Institute of Museum and Library Services. This National Forum will bring together specialists in the fields of law, libraries, and literature to explore the future of curating copyrighted cultural collections as data. 
+Data Speculations is a National Forum sponsored by the Institute of Museum and Library Services. This National Forum will bring together specialists in the fields of law, libraries, and literature to explore the future of curating copyrighted cultural collections as data.
 
 # Program Schedule
 
