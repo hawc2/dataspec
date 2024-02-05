@@ -4,7 +4,12 @@ description: "A National Forum"
 cascade:
   featured_image: '/images/galaxy.jpeg'
 ---
-Data Speculations is an IMLS sponsored National Forum, bringing together specialists in the fields of law, libraries, and literature to explore the future of curating copyrighted cultural collections as data. 
+
+# Overviewing the Forum
+
+Data Speculations is a National Forum sponsored by the Institute of Museum and Library Services. This National Forum will bring together specialists in the fields of law, libraries, and literature to explore the future of curating copyrighted cultural collections as data. 
+
+# Program Schedule
 
 The National Forum will take place in the winter of 2025. Over the next year, the stakeholders will be conducting an environmental scan and identifying additional participants in the forum. 
 
