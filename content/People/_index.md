@@ -26,7 +26,6 @@ Data Speculations: A National Forum will bring together a wide range of scholars
 * Matthew Sag
 * Glenn Worthey
 * Thomas Padilla
-* Purdom Lindblad
 * Michelle Dalmau
 * Devin Becker
 * Nicole Lemire-Garlic
