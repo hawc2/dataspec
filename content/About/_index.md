@@ -17,6 +17,8 @@ The National Forum will take place in the winter of 2025. Over the next year, th
 
 The Forum will focus on a series of case studies, exemplified by the SF Nexus project.
 
+![image](/images/DataSpec_logo_BW.jpg)
+
 # SF Nexus
 The SF Nexus comprises a collaborative network of research and public libraries with collections of SF. The SF Nexus aspires to make a comprehensive dataset of science fiction literature. 
 
