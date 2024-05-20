@@ -12,7 +12,7 @@ Data Speculations is a National Forum sponsored by the Institute of Museum and L
 With support from the Institute of Museum and Library Services, Temple University and Texas A&M University will host a National Forum and foster a community of practice to develop a proof-of-concept legal framework in support of libraries working with copyrighted collections. Data Speculations will convene specialists in digital humanities research, library data services, copyright, and information policy virtually to analyze library practices in computational research on copyrighted contemporary culture materials.
 Libraries and archives can increasingly enable teachers, scholars, and journalists to explore cultural heritage collections in computational form, allowing users to mine, map, analyze, and visualize these materials at scale. However, legal barriers to working with copyrighted data at scale have prevented many institutions from growing these text and data mining programs. Data Speculations will inform next-stage partnerships, protocols, tools, and best practice guidance and will be foundational to removing access barriers for sharing copyrighted collections.
 
-For more information on the IMLS grant, see the (IMLS award page](https://www.imls.gov/grants/awarded/lg-254864-ols-23).
+For more information on the IMLS grant, see the [IMLS award page](https://www.imls.gov/grants/awarded/lg-254864-ols-23).
 
 # Program Schedule
 
