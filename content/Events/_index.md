@@ -5,7 +5,7 @@ cascade:
   featured_image: '/images/books.jpg'
 menu:
   main:
-    weight: 2
+    weight: 3
 ---
 
 ## Upcoming Presentations on Data Speculations
