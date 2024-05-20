@@ -15,23 +15,12 @@ Data Speculations: A National Forum will bring together a wide range of scholars
 
 * [Alex Wermer-Colan, Interim Academic Director, Loretta C. Duckworth Scholars Studio](https://library.temple.edu/people/alex-wermer-colan-ph-d)
 
-## Steering Committee 
+## Advisory Board
 * [Rachael Samberg, Scholarly Communication Officer, Berkeley Library](https://www.lib.berkeley.edu/help/staff-directory/rachael-samberg)
 
 * [Brandon Butler, Director of Intellectual Property and Licensing, University of Virginia Library](https://www.library.virginia.edu/staff/bcb4y)
 
 * [Peter Jaszi, Professor of Law Emeritus, American University Washington College of Law](https://www.wcl.american.edu/community/faculty/profile/jaszi/bio)
-
-## Advisory Board
-* Matthew Sag
-* Glenn Worthey
-* Thomas Padilla
-* Michelle Dalmau
-* Devin Becker
-* Nicole Lemire-Garlic
-* Quinn Dombrowski
-* Inna Kouper
-* Ted Underwood
   
 # Science Fiction Collecting Libraries Consortium Members
 * [Elspeth Healey, Special Collections, University of Kansas Spencer Library](https://lib.ku.edu/elspeth-healey)
@@ -39,8 +28,6 @@ Data Speculations: A National Forum will bring together a wide range of scholars
 
 ## Institutional Partners
 [Science Fiction Collecting Libraries Consortium](http://sfspecialcollections.pbworks.com/w/page/75814541/About%20the%20SciFi%20Collection%20Libraries%20Consortium%20%28SFCLC%29)
-
-[HathiTrust Digital Library](https://www.hathitrust.org/)
 
 
 
