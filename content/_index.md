@@ -2,7 +2,7 @@
 title: Data Speculations
 description: "A National Forum"
 cascade:
-  featured_image: '/images/galaxy.jpeg'
+  featured_image: '/images/DataSpec_logo_BW.png'
 ---
 
 # Overviewing the Forum
