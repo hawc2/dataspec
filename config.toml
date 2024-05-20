@@ -13,6 +13,10 @@ canonifyURLS=true
   pageRef = '/People'
   weight = 2
 [[menu.main]]
+  name = 'Events'
+  pageRef = '/Events'
+  weight = 3
+[[menu.main]]
   name = 'Scholarship'
   pageRef = '/Scholarship'
-  weight = 3
+  weight = 4
