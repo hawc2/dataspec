@@ -1,6 +1,4 @@
 ---
-title: Data Speculations
-description: "A National Forum"
 cascade:
   featured_image: '/images/logo_background.png'
 ---
