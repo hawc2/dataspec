@@ -1,5 +1,4 @@
 ---
-title: "Programming and Scholarship"
 cascade:
   featured_image: '/images/background.png'
 menu:
