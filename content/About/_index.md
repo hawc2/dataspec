@@ -36,7 +36,11 @@ The National Forum's opening convening will take place in January of 2025, and t
 * [Brandon Butler, Director of Intellectual Property and Licensing, University of Virginia Library](https://www.library.virginia.edu/staff/bcb4y)
 
 * [Peter Jaszi, Professor of Law Emeritus, American University Washington College of Law](https://www.wcl.american.edu/community/faculty/profile/jaszi/bio)
-  
+
+# Temple University Libraries Support
+* Joi Waller, Graphic Designer
+* Michael Ernst, Research Assistant
+
 # Science Fiction Collecting Libraries Consortium Members
 * [Elspeth Healey, Special Collections, University of Kansas Spencer Library](https://lib.ku.edu/elspeth-healey)
 * [Jeremy Brett, Special Collections, Texas A&M Libraries](https://cushing.library.tamu.edu/collecting/scifi.html)
