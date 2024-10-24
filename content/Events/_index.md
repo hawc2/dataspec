@@ -1,6 +1,5 @@
 ---
-title: "Events"
-description: "Related events where we are presenting works-in-progress"
+title: "Programming and Scholarship"
 cascade:
   featured_image: '/images/background.png'
 menu:
