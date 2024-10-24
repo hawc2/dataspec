@@ -4,7 +4,7 @@ cascade:
   featured_image: '/images/background.png'
 menu:
   main:
-    weight: 3
+    weight: 2
 ---
 
 ## Upcoming Presentations on Data Speculations
