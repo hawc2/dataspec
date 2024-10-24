@@ -1,6 +1,6 @@
 ---
-title: "About"
-description: "About page for National Forum"
+title: "Data Speculations"
+description: "An IMLS-Sponsored National Forum"
 cascade:
   featured_image: '/images/galaxy.jpeg'
 menu:
