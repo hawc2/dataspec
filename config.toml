@@ -4,11 +4,15 @@ theme = "gohugo-theme-ananke"
 canonifyURLS=true
 [menu]
 [[menu.main]]
+  name = 'Home'
+  pageRef = '/_index.md'
+  weight = 1
+[[menu.main]]
   name = 'About'
   pageRef = '/About'
-  weight = 1
+  weight = 2
 [[menu.main]]
   name = 'Events'
   pageRef = '/Events'
-  weight = 2
+  weight = 3
 
