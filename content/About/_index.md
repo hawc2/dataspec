@@ -7,7 +7,6 @@ menu:
   main:
     weight: 1
 ---
-# The IMLS-Sponsored National Forum Overview
 The IMLS-sponsored Data Speculations: A National Forum seeks to advance the development of infrastructure, policies, expertise, and collections that enable computational research on copyrighted contemporary culture materials.
 
 The forum, to be held in January 2025, is led by a team of digital humanities and copyright experts, Alex Wermer-Colan, Sarah Potvin, Peter Jaszi, Brandon Butler, and Rachael Samberg, and will bring together specialists in digital humanities research, collections, and library data services. 
