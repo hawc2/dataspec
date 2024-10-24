@@ -2,7 +2,7 @@
 title: "Data Speculations"
 description: "An IMLS-Sponsored National Forum"
 cascade:
-  featured_image: '/images/galaxy.jpeg'
+  featured_image: '/images/background.png'
 menu:
   main:
     weight: 1
