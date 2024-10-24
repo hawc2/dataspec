@@ -2,7 +2,7 @@
 title: "Events"
 description: "Related events where we are presenting works-in-progress"
 cascade:
-  featured_image: '/images/books.jpg'
+  featured_image: '/images/background.png
 menu:
   main:
     weight: 3
