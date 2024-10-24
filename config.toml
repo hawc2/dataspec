@@ -1,6 +1,5 @@
 baseURL = '/'
 languageCode = 'en-us'
-title = 'Data Speculations'
 theme = "gohugo-theme-ananke"
 canonifyURLS=true
 [menu]
