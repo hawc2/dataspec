@@ -1,6 +1,6 @@
 ---
-title: "Data Speculations"
-description: "An IMLS-Sponsored National Forum"
+title: "About"
+description: "Data Speculations"
 cascade:
   featured_image: '/images/background.png'
 menu:
