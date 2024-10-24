@@ -12,6 +12,4 @@ canonifyURLS=true
   name = 'Events'
   pageRef = '/Events'
   weight = 2
-  
-params:
-  site_logo: "/images/avatar.png"
+
