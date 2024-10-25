@@ -1,5 +1,4 @@
 ---
-title: "Data Speculations"
 description: "Programming and Scholarship"
 cascade:
   featured_image: '/images/background.png'
