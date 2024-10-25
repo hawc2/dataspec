@@ -14,8 +14,6 @@ By convening a dedicated community of practice at a National Forum, hosting publ
  
 At a time when multinational publishing houses and database vendors increasingly speculate (quite literally) on the landscape of digitized contemporary culture, charging libraries for licensed access to their collections of newspapers and magazines as data, Data Speculations seeks an alternative vision: a future where libraries can steward large collections of copyrighted cultural data. 
 
-![image](/images/DataSpec_logo_BW.jpg)
-
 # Data Speculations Program Schedule
 *Data Speculations: A National Forum* will bring together a wide range of scholars and practitioners to discuss the future of computational access to copyrighted data and explore a series of case studies, including the [SF Nexus project](sfnexus.io).
 
@@ -56,3 +54,5 @@ For an exhibit of SF book covers from the Paskow collection, visit our companion
 
 # Science Fiction Collecting Libraries Consortium (SFCLC)
 The SFCLC comprises a series of special collections across North America and England focusing on preserving and expanding access to the history of science fiction publishing. The SF Nexus aspires to leverage the SFCLC's holdings to create larger science fiction datasets that can be shared through member-supported repositories like HathiTrust Digital Library and through digital scholarship centers at these universities.
+
+![image](/images/DataSpec_logo_BW.jpg)
