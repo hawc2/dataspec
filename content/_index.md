@@ -15,4 +15,3 @@ Through the National Forum and related events, we hope to foster a community of 
 Libraries and archives can increasingly enable teachers, scholars, and journalists to explore cultural heritage collections in computational form, allowing users to mine, map, analyze, and visualize these materials at scale. However, legal barriers to working with copyrighted data at scale have prevented many institutions from growing these text and data mining programs. Data Speculations will inform next-stage partnerships, protocols, tools, and best practice guidance and will be foundational to removing access barriers for sharing copyrighted collections.
 
 For more information on the IMLS grant, see the [IMLS award page](https://www.imls.gov/grants/awarded/lg-254864-ols-23).
-
