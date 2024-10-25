@@ -42,6 +42,8 @@ The National Forum's opening convening will take place in January of 2025, and t
 ## Partners
 [Science Fiction Collecting Libraries Consortium](http://sfspecialcollections.pbworks.com/w/page/75814541/About%20the%20SciFi%20Collection%20Libraries%20Consortium%20%28SFCLC%29)
 
+![image](/images/sf_book_viz.png)
+
 # SF Nexus
 The SF Nexus comprises a collaborative network of research and public libraries with collections of SF. The SF Nexus aspires to make a comprehensive dataset of science fiction literature. 
 
