@@ -1,5 +1,4 @@
 ---
-title: "About"
 description: "Data Speculations: A National Forum"
 cascade:
   featured_image: '/images/background.png'
