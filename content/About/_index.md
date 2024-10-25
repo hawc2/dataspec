@@ -16,8 +16,6 @@ At a time when multinational publishing houses and database vendors increasingly
 
 ![image](/images/imls_logo_2c.jpg)
 
-![image](/images/DataSpec_logotype_BW.jpg)
-
 # Data Speculations Program Schedule
 *Data Speculations: A National Forum* will bring together a wide range of scholars and practitioners to discuss the future of computational access to copyrighted data and explore a series of case studies, including the [SF Nexus project](sfnexus.io).
 
