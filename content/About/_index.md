@@ -6,13 +6,17 @@ menu:
   main:
     weight: 1
 ---
-The IMLS-sponsored Data Speculations: A National Forum seeks to advance the development of infrastructure, policies, expertise, and collections that enable computational research on copyrighted contemporary culture materials.
+The Institute of Museum and Library Services-sponsored Data Speculations: A National Forum seeks to advance the development of infrastructure, policies, expertise, and collections that enable computational research on copyrighted contemporary culture materials.
 
 The forum, to be held in January 2025, is led by a team of digital humanities and copyright experts, Alex Wermer-Colan, Sarah Potvin, Peter Jaszi, Brandon Butler, and Rachael Samberg, and will bring together specialists in digital humanities research, collections, and library data services. 
 
 By convening a dedicated community of practice at a National Forum, hosting public talks, and producing findings and guidelines for wider dissemination, Data Speculations will be foundational to the collective work of removing access barriers for sharing copyrighted collections, serving libraries’ core mission to make information, including copyrighted data, available to researchers and teachers to advance teaching and scholarship.
  
 At a time when multinational publishing houses and database vendors increasingly speculate (quite literally) on the landscape of digitized contemporary culture, charging libraries for licensed access to their collections of newspapers and magazines as data, Data Speculations seeks an alternative vision: a future where libraries can steward large collections of copyrighted cultural data. 
+
+![image](/images/imls_logo_2c.jpg)
+
+![image](/images/DataSpec_logotype_BW.jpg)
 
 # Data Speculations Program Schedule
 *Data Speculations: A National Forum* will bring together a wide range of scholars and practitioners to discuss the future of computational access to copyrighted data and explore a series of case studies, including the [SF Nexus project](sfnexus.io).
