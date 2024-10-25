@@ -32,3 +32,5 @@ Relevant scholarship to the National Forum includes recent work in copyright law
 A running list of relevant references can be found on our [Zotero library](https://www.zotero.org/groups/5232836/data_speculations)
 
 For resources around building a science fiction corpus, see [sfnexus.io/scholarship](https://sfnexus.io/scholarship/).
+
+![image](/images/DataSpec_logo_BW.jpg)
