@@ -6,13 +6,13 @@ menu:
   main:
     weight: 1
 ---
-The Institute of Museum and Library Services-sponsored Data Speculations: A National Forum seeks to advance the development of infrastructure, policies, expertise, and collections that enable computational research on copyrighted contemporary culture materials.
+The Institute of Museum and Library Services-sponsored National Forum, *Data Speculations*, seeks to advance the development of infrastructure, policies, expertise, and collections that enable computational research on copyrighted contemporary culture materials.
 
-The forum, to be held in January 2025, is led by a team of digital humanities and copyright experts, Alex Wermer-Colan, Sarah Potvin, Peter Jaszi, Brandon Butler, and Rachael Samberg, and will bring together specialists in digital humanities research, collections, and library data services. 
+The National Forum, taking place in 2025, is led by a team of digital humanities and copyright experts, Alex Wermer-Colan, Sarah Potvin, Peter Jaszi, Brandon Butler, and Rachael Samberg, and will bring together specialists in digital humanities research, collections, and library data services. 
 
 By convening a dedicated community of practice at a National Forum, hosting public talks, and producing findings and guidelines for wider dissemination, Data Speculations will be foundational to the collective work of removing access barriers for sharing copyrighted collections, serving libraries’ core mission to make information, including copyrighted data, available to researchers and teachers to advance teaching and scholarship.
  
-At a time when multinational publishing houses and database vendors increasingly speculate (quite literally) on the landscape of digitized contemporary culture, charging libraries for licensed access to their collections of newspapers and magazines as data, Data Speculations seeks an alternative vision: a future where libraries can steward large collections of copyrighted cultural data. 
+At a time when multinational publishing houses and database vendors increasingly speculate (quite literally) on the landscape of digitized contemporary culture, charging libraries for licensed access to their collections of newspapers and magazines as data, *Data Speculations* seeks an alternative vision: a future where libraries can steward large collections of copyrighted cultural data. 
 
 ![image](/images/imls_logo_2c.jpg)
 
@@ -23,15 +23,35 @@ The National Forum's opening convening will take place in January of 2025, and t
 
 ## Forum Organizers
 * [Sarah Potvin, Associate Professor of English, Texas A&M University](https://liberalarts.tamu.edu/english/profile/sarah-potvin/)
-
 * [Alex Wermer-Colan, Interim Academic Director, Loretta C. Duckworth Scholars Studio](https://library.temple.edu/people/alex-wermer-colan-ph-d)
 
-## Advisory Board
+## Legal Team
 * [Rachael Samberg, Scholarly Communication Officer, Berkeley Library](https://www.lib.berkeley.edu/help/staff-directory/rachael-samberg)
-
 * [Brandon Butler, Director of Intellectual Property and Licensing, University of Virginia Library](https://www.library.virginia.edu/staff/bcb4y)
-
 * [Peter Jaszi, Professor of Law Emeritus, American University Washington College of Law](https://www.wcl.american.edu/community/faculty/profile/jaszi/bio)
+
+# Practitioners Advisory Board
+* Thomas Padilla (Bristlecone Strategy)
+* Giulia Osti (University College Dublin)
+* Zoe LeBlanc (University of Illinois Urbana-Champaign)
+* Grant Wythoff (Princeton University)
+* Glen Layne-Worthey (University of Illinois Urbana-Champaign)
+* Melanie Walsh (University of Washington)
+* Quinn Dombrowski (Stanford University)
+* Devin Becker (University of Idaho Library)
+* Jeremy Brett (Cushing Memorial Library & Archives, Texas A&M University)
+* Michelle Dalmau (Indiana University Bloomington)
+* Jewon Woo (Lorain County Community COllege)
+* Dez Miller (Emory University)
+* Laure Thompson (Princeton University)
+* Ted Underwood (UIUC)
+
+# Copyright Advisory Board
+* Matthew Sag, Jonas Robitscher Professor of Law in Artificial Intelligence, Machine Learning, and Data Science, Emory University
+* Laura Quilter, Copyright & Information Policy Librarian, UMass Amherst Libraries
+* Guy A. Rub, Vincent J. Marella Professor of Law, Temple University Beasley School of Law
+* Melissa Levine, Director, Copyright Office, University of Michigan Library
+* Rebecca Tushnet, Frank Stanton Professor of the First Amendment, Harvard Law School
 
 # Temple University Libraries Team
 * Joi Waller, Graphic Designer
