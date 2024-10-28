@@ -78,5 +78,3 @@ For an exhibit of SF book covers from the Paskow collection, visit our companion
 
 # Science Fiction Collecting Libraries Consortium (SFCLC)
 The SFCLC comprises a series of special collections across North America and England focusing on preserving and expanding access to the history of science fiction publishing. The SF Nexus aspires to leverage the SFCLC's holdings to create larger science fiction datasets that can be shared through member-supported repositories like HathiTrust Digital Library and through digital scholarship centers at these universities.
-
-![image](/images/DataSpec_logo_BW.jpg)
