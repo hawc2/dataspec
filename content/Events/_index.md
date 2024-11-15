@@ -24,25 +24,26 @@ Alex Wermer-Colan, Sarah Potvin, Rachael Samberg, and Brandon Butler
 Sarah Potvin and Alex Wermer-Colan
 [Texas Conference of Digital Libraries](https://tcdl2024.sched.com/) (2024)
 
-## Past Presentations on SF Nexus
-Association of Digital Humanities Organization, 2024
-Alex Wermer-Colan
-
-HathiTrust Community Week, 2022
-Alex Wermer-Colan
-
-Code4Lib, 2022
-Inna Kouper and Alex Wermer-Colan
-
-Association for Computers in the Humanities, 2019
-Alex Wermer-Colan and Rikk Mulligan
-
-American Philosophical Society, 2019
-Alex Wermer-Colan and James Kopaczewski
-
 ## Relevant Scholarship and Resources
 Relevant scholarship to the National Forum includes recent work in copyright law, digital humanities, and related fields in GLAM.
 
 A running list of relevant references can be found on our [Zotero library](https://www.zotero.org/groups/5232836/data_speculations)
 
 For resources around building a science fiction corpus, see [sfnexus.io/scholarship](https://sfnexus.io/scholarship/).
+
+## Past Presentations on SF Nexus
+Association of Digital Humanities Organization, 2024  
+Alex Wermer-Colan, Dez Miller, Megan Kane, SaraGrace Stefan
+
+HathiTrust Community Week, 2022  
+Alex Wermer-Colan
+
+Code4Lib, 2022  
+Inna Kouper and Alex Wermer-Colan
+
+Association for Computers in the Humanities, 2019  
+Alex Wermer-Colan and Rikk Mulligan
+
+American Philosophical Society, "The Past, Present, and Future of Libraries," 2019  
+Alex Wermer-Colan and James Kopaczewski
+
