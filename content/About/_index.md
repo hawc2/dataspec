@@ -45,6 +45,12 @@ The National Forum's opening convening will take place in January of 2025, and t
 * Dez Miller (Emory University)
 * Laure Thompson (Princeton University)
 * Ted Underwood (UIUC)
+* Phoenix Alexander (University of California, Riverside)
+* Elspeth Healey (University of Kansas)
+* Nikki Lemire-Garlic (Thomas Jefferson University)
+* Jennifer Weintraub (Schlesinger Library, Harvard University)
+* Mark Algee-Hewitt (Stanford University)
+* Jajwalya Karajgikar (UPenn Libraries)
 
 # Copyright Advisory Board
 * Matthew Sag, Jonas Robitscher Professor of Law in Artificial Intelligence, Machine Learning, and Data Science, Emory University
@@ -55,7 +61,7 @@ The National Forum's opening convening will take place in January of 2025, and t
 
 # Temple University Libraries Team
 * Joi Waller, Graphic Designer
-* Michael Ernst, Research Assistant
+* Michael Ernst, Graduate Research Assistant 
 
 # Science Fiction Collecting Libraries Consortium Representatives
 * [Elspeth Healey, Special Collections, University of Kansas Spencer Library](https://lib.ku.edu/elspeth-healey)
