@@ -17,7 +17,7 @@ At a time when multinational publishing houses and database vendors increasingly
 ![image](/images/imls_logo_2c.jpg)
 
 # Data Speculations Program Schedule
-*Data Speculations: A National Forum* will bring together a wide range of scholars and practitioners to discuss the future of computational access to copyrighted data and explore a series of case studies, including the [SF Nexus project](sfnexus.io).
+*Data Speculations: A National Forum* will bring together a wide range of scholars and practitioners to discuss the future of computational access to copyrighted data and explore a series of case studies, including the [SF Nexus project](https://sfnexus.io/).
 
 The National Forum's opening convening will take place in January of 2025, and the project will feature a series of additional events over the 2025 year.
 
