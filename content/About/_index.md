@@ -51,6 +51,8 @@ The National Forum's opening convening will take place in January of 2025, and t
 * Jennifer Weintraub (Schlesinger Library, Harvard University)
 * Mark Algee-Hewitt (Stanford University)
 * Jajwalya Karajgikar (UPenn Libraries)
+* Iliana Burgos (Cornell University Library)
+* Megan Senseney (University of Arizona)
 
 # Copyright Advisory Board
 * Matthew Sag, Jonas Robitscher Professor of Law in Artificial Intelligence, Machine Learning, and Data Science, Emory University
