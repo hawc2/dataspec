@@ -8,9 +8,9 @@ menu:
 ---
 The Institute of Museum and Library Services-sponsored National Forum, *Data Speculations*, seeks to advance the development of infrastructure, policies, expertise, and collections that enable computational research on copyrighted contemporary culture materials.
 
-The National Forum, taking place in 2025, is led by a team of digital humanities and copyright experts, Alex Wermer-Colan, Sarah Potvin, Peter Jaszi, Brandon Butler, and Rachael Samberg, and will bring together specialists in digital humanities research, collections, and library data services. 
+*Data Speculations: A National Forum on Library Digital Stewardship for Copyrighted Contemporary Culture* is led by a team of digital humanities and copyright experts, Alex Wermer-Colan, Sarah Potvin, Peter Jaszi, Brandon Butler, and Rachael Samberg. The convenings will bring together specialists in digital humanities research, collections, and library data services. 
 
-By convening a dedicated community of practice at a National Forum, hosting public talks, and producing findings and guidelines for wider dissemination, Data Speculations will be foundational to the collective work of removing access barriers for sharing copyrighted collections, serving libraries’ core mission to make information, including copyrighted data, available to researchers and teachers to advance teaching and scholarship.
+By gathering a dedicated community of practice at a National Forum, hosting public talks, and producing findings and guidelines for wider dissemination, Data Speculations will be foundational to the collective work of removing access barriers for sharing copyrighted collections, serving libraries’ core mission to make information, including copyrighted data, available to researchers and teachers to advance teaching and scholarship.
  
 At a time when multinational publishing houses and database vendors increasingly speculate (quite literally) on the landscape of digitized contemporary culture, charging libraries for licensed access to their collections of newspapers and magazines as data, *Data Speculations* seeks an alternative vision: a future where libraries can steward large collections of copyrighted cultural data. 
 
@@ -22,13 +22,13 @@ At a time when multinational publishing houses and database vendors increasingly
 The National Forum's opening convening will take place in January of 2025, and the project will feature a series of additional events over the 2025 year.
 
 ## Forum Organizers
-* [Sarah Potvin, Associate Professor of English, Texas A&M University](https://liberalarts.tamu.edu/english/profile/sarah-potvin/)
-* [Alex Wermer-Colan, Interim Academic Director, Loretta C. Duckworth Scholars Studio](https://library.temple.edu/people/alex-wermer-colan-ph-d)
+* [Sarah Potvin](https://liberalarts.tamu.edu/english/profile/sarah-potvin/), Associate Professor of English, Texas A&M University
+* [Alex Wermer-Colan](https://library.temple.edu/people/alex-wermer-colan-ph-d), Academic and Research Director, Temple University Libraries, Loretta C. Duckworth Scholars Studio
 
 ## Legal Team
-* [Rachael Samberg, Scholarly Communication Officer, Berkeley Library](https://www.lib.berkeley.edu/help/staff-directory/rachael-samberg)
-* [Brandon Butler, Director of Intellectual Property and Licensing, University of Virginia Library](https://www.library.virginia.edu/staff/bcb4y)
-* [Peter Jaszi, Professor of Law Emeritus, American University Washington College of Law](https://www.wcl.american.edu/community/faculty/profile/jaszi/bio)
+* [Rachael Samberg](https://www.lib.berkeley.edu/help/staff-directory/rachael-samberg), Scholarly Communication Officer, Berkeley Library
+* [Brandon Butler](https://www.library.virginia.edu/staff/bcb4y), Director of Intellectual Property and Licensing, University of Virginia Library
+* [Peter Jaszi](https://www.wcl.american.edu/community/faculty/profile/jaszi/bio), Professor of Law Emeritus, American University Washington College of Law
 
 # Practitioners Advisory Board
 * Thomas Padilla (Bristlecone Strategy)
@@ -47,12 +47,12 @@ The National Forum's opening convening will take place in January of 2025, and t
 * Ted Underwood (UIUC)
 * Phoenix Alexander (University of California, Riverside)
 * Elspeth Healey (University of Kansas)
-* Nikki Lemire-Garlic (Thomas Jefferson University)
 * Jennifer Weintraub (Schlesinger Library, Harvard University)
 * Mark Algee-Hewitt (Stanford University)
 * Jajwalya Karajgikar (UPenn Libraries)
 * Iliana Burgos (Cornell University Library)
 * Megan Senseney (University of Arizona)
+* Kiran Mohammadi-Williams (Cornell University)
 
 # Copyright Advisory Board
 * Matthew Sag, Jonas Robitscher Professor of Law in Artificial Intelligence, Machine Learning, and Data Science, Emory University
@@ -63,11 +63,11 @@ The National Forum's opening convening will take place in January of 2025, and t
 
 # Temple University Libraries Team
 * Joi Waller, Graphic Designer
-* Michael Ernst, Graduate Research Assistant 
+* Michael Ernst, Graduate Student Research Assistant 
 
 # Science Fiction Collecting Libraries Consortium Representatives
-* [Elspeth Healey, Special Collections, University of Kansas Spencer Library](https://lib.ku.edu/elspeth-healey)
-* [Jeremy Brett, Special Collections, Texas A&M Libraries](https://cushing.library.tamu.edu/collecting/scifi.html)
+* [Elspeth Healey](https://lib.ku.edu/elspeth-healey), Special Collections, University of Kansas Spencer Library
+* [Jeremy Brett](https://cushing.library.tamu.edu/collecting/scifi.html), Special Collections, Texas A&M Libraries
 
 ## Partners
 [Science Fiction Collecting Libraries Consortium](http://sfspecialcollections.pbworks.com/w/page/75814541/About%20the%20SciFi%20Collection%20Libraries%20Consortium%20%28SFCLC%29)
