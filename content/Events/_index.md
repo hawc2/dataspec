@@ -10,12 +10,11 @@ Data Speculations has been in development since 2023, and work has been ongoing 
 
 In 2025, the National Forum will take place, with a week-long series of events with practitioners in the field. Additional convenings with relevant stakeholders will take place over the year at Temple University Libraries and other venues.
 
-# Upcoming Presentations on Data Speculations
-Emerging Legal Pathways for Digital Humanities Research on Copyrighted Literature
-Alex Wermer-Colan, Sarah Potvin, Peter Jaszi, Quinn Dombrowski, and Mark Algee-Hewitt
-*Association for Computers and the Humanities*, 2024
-
 # Recent Presentations on Data Speculations
+"Emerging Legal Pathways for Digital Humanities Research on Copyrighted Literature"
+Alex Wermer-Colan, Sarah Potvin, Peter Jaszi, Quinn Dombrowski, and Mark Algee-Hewitt
+*Association for Computers and the Humanities* (2024)
+
 "Data Speculations: Expanding Access to Copyrighted Collections as Data"
 Alex Wermer-Colan, Sarah Potvin, Rachael Samberg, and Brandon Butler
 *Digital Library Federation Forum* (2024) 
@@ -32,18 +31,18 @@ A running list of relevant references can be found on our [Zotero library](https
 For resources around building a science fiction corpus, see [sfnexus.io/scholarship](https://sfnexus.io/scholarship/).
 
 ## Past Presentations on SF Nexus
-Association of Digital Humanities Organization, 2024  
+_Association of Digital Humanities Organization_, 2024  
 Alex Wermer-Colan, Dez Miller, Megan Kane, SaraGrace Stefan
 
-HathiTrust Community Week, 2022  
+_HathiTrust Community Week_, 2022  
 Alex Wermer-Colan
 
-Code4Lib, 2022  
+_Code4Lib_, 2022  
 Inna Kouper and Alex Wermer-Colan
 
-Association for Computers in the Humanities, 2019  
+_Association for Computers in the Humanities_, 2019  
 Alex Wermer-Colan and Rikk Mulligan
 
-American Philosophical Society, "The Past, Present, and Future of Libraries," 2019  
+_American Philosophical Society_, "The Past, Present, and Future of Libraries," 2019  
 Alex Wermer-Colan and James Kopaczewski
 
