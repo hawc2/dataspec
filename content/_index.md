@@ -3,7 +3,7 @@ cascade:
   featured_image: '/images/logo_background.png'
 ---
 # The IMLS-Sponsored National Forum
-*Data Speculations* is a National Forum sponsored by the Institute of Museum and Library Services, hosted by Temple University and Texas A&M University. This National Forum will bring together specialists in the fields of law, libraries, and literature to explore the future of curating copyrighted cultural collections as data. 
+*Data Speculations: A National Forum on Library Digital Stewardship for Copyrighted Contemporary Culture* is sponsored by the Institute of Museum and Library Services, and will be hosted by Temple University and Texas A&M University in 2025. This National Forum will bring together specialists in the fields of law, libraries, and literature to explore the future of curating copyrighted cultural collections as data. 
 
 Data Speculations will involve a series of convenings and projects that take place over the 2025 year, with the opening events January 13-16. The Project Team is actively presenting works-in-progress at related conferences. See our [Events](/events) page for more information.
 
