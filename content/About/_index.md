@@ -53,6 +53,8 @@ The National Forum's opening convening will take place in January of 2025, and t
 * Iliana Burgos (Cornell University Library)
 * Megan Senseney (University of Arizona)
 * Kiran Mohammadi-Williams (Cornell University)
+* Ayesha K. Hardison (Indiana University, Bloomington)
+* Heather Froehlich (University of Arizona)
 
 # Copyright Advisory Board
 * Matthew Sag, Jonas Robitscher Professor of Law in Artificial Intelligence, Machine Learning, and Data Science, Emory University
@@ -66,7 +68,7 @@ The National Forum's opening convening will take place in January of 2025, and t
 * Michael Ernst, Graduate Student Research Assistant 
 
 # Science Fiction Collecting Libraries Consortium Representatives
-* [Elspeth Healey](https://lib.ku.edu/elspeth-healey), Special Collections, University of Kansas Spencer Library
+* [Elspeth Healey](https://spencer.lib.ku.edu/elspeth-healey), Special Collections Curator, University of Kansas Spencer Library
 * [Jeremy Brett](https://cushing.library.tamu.edu/collecting/scifi.html), Special Collections, Texas A&M Libraries
 
 ## Partners
