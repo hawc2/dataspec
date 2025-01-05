@@ -31,18 +31,24 @@ A running list of relevant references can be found on our [Zotero library](https
 For resources around building a science fiction corpus, see [sfnexus.io/scholarship](https://sfnexus.io/scholarship/).
 
 ## Past Presentations on SF Nexus
-_Association of Digital Humanities Organization_, 2024  
+_Association of Digital Humanities Organization Annual Conference_, 2024  
+"Toxic Water: Modeling Eco-Poetics and Eco-Politics in 20th Century Anglophone Climate Fiction"
 Alex Wermer-Colan, Dez Miller, Megan Kane, SaraGrace Stefan
 
 _HathiTrust Community Week_, 2022  
+"Digitizing and Exhibiting Copyrighted Science Fiction"
+[Slides](https://www.youtube.com/watch?v=LZKDe5SBECQ)
+[Video](https://www.youtube.com/watch?v=LZKDe5SBECQ)
 Alex Wermer-Colan
 
 _Code4Lib_, 2022  
 Inna Kouper and Alex Wermer-Colan
 
-_Association for Computers in the Humanities_, 2019  
+_The Association for Computers and the Humanities (“ACH”)_, 2019  
+"The SF Nexus: A Comprehensive Corpus of Speculative Fiction for Non-Consumptive Research"
 Alex Wermer-Colan and Rikk Mulligan
 
 _American Philosophical Society_, "The Past, Present, and Future of Libraries," 2019  
+"The New Wave of Digital Collections: On Digitizing Science Fiction"
 Alex Wermer-Colan and James Kopaczewski
 
