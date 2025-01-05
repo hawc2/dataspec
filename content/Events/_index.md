@@ -33,6 +33,7 @@ For resources around building a science fiction corpus, see [sfnexus.io/scholars
 ## Past Presentations on SF Nexus
 _Association of Digital Humanities Organization Annual Conference_, 2024  
 "Toxic Water: Modeling Eco-Poetics and Eco-Politics in 20th Century Anglophone Climate Fiction"
+[Slides](https://zenodo.org/records/8107505)
 Alex Wermer-Colan, Dez Miller, Megan Kane, SaraGrace Stefan
 
 _HathiTrust Community Week_, 2022  
