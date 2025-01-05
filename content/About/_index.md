@@ -55,6 +55,7 @@ The National Forum's opening convening will take place in January of 2025, and t
 * Kiran Mohammadi-Williams (Cornell University)
 * Ayesha K. Hardison (Indiana University, Bloomington)
 * Heather Froehlich (University of Arizona)
+* Clovis Gladstone (University of Chicago)
 
 # Copyright Advisory Board
 * Matthew Sag, Jonas Robitscher Professor of Law in Artificial Intelligence, Machine Learning, and Data Science, Emory University
@@ -65,7 +66,7 @@ The National Forum's opening convening will take place in January of 2025, and t
 
 # Temple University Libraries Team
 * Joi Waller, Graphic Designer
-* Michael Ernst, Graduate Student Research Assistant 
+* Michael Ernst, Graduate Research Assistant 
 
 # Science Fiction Collecting Libraries Consortium Representatives
 * [Elspeth Healey](https://spencer.lib.ku.edu/elspeth-healey), Special Collections Curator, University of Kansas Spencer Library
