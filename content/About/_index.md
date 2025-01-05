@@ -8,11 +8,9 @@ menu:
 ---
 The Institute of Museum and Library Services-sponsored National Forum, *Data Speculations*, seeks to advance the development of infrastructure, policies, expertise, and collections that enable computational research on copyrighted contemporary culture materials.
 
-*Data Speculations: A National Forum on Library Digital Stewardship for Copyrighted Contemporary Culture* is led by a team of digital humanities and copyright experts, Alex Wermer-Colan, Sarah Potvin, Peter Jaszi, Brandon Butler, and Rachael Samberg. The convenings will bring together specialists in digital humanities research, collections, and library data services. 
+*Data Speculations: A National Forum on Library Digital Stewardship for Copyrighted Contemporary Culture* is led by a team of digital humanities and copyright experts, Alex Wermer-Colan, Sarah Potvin, Peter Jaszi, Brandon Butler, and Rachael Samberg. The convenings brings together specialists in digital humanities research, collections, and library data services. Convenings for the National Forum will include both closed virtual convenings, public conference presentations, and related programming, reports, and publications.
 
-By gathering a dedicated community of practice at a National Forum, hosting public talks, and producing findings and guidelines for wider dissemination, Data Speculations will be foundational to the collective work of removing access barriers for sharing copyrighted collections, serving libraries’ core mission to make information, including copyrighted data, available to researchers and teachers to advance teaching and scholarship.
- 
-At a time when multinational publishing houses and database vendors increasingly speculate (quite literally) on the landscape of digitized contemporary culture, charging libraries for licensed access to their collections of newspapers and magazines as data, *Data Speculations* seeks an alternative vision: a future where libraries can steward large collections of copyrighted cultural data. 
+By gathering a dedicated community of practice at a National Forum, hosting public talks, and producing findings and guidelines for wider dissemination, *Data Speculations* will be foundational to the collective work of removing access barriers for sharing copyrighted collections, serving libraries’ core mission to make information, including copyrighted data, available to researchers and teachers to advance teaching and scholarship. At a time when multinational publishing houses and database vendors increasingly speculate on the landscape of digitized contemporary culture, charging libraries for licensed access to their collections of newspapers and magazines as data, *Data Speculations* seeks an alternative vision: a future where libraries can steward large collections of copyrighted cultural data. 
 
 ![image](/images/imls_logo_2c.jpg)
 
@@ -41,10 +39,10 @@ The National Forum's opening convening will take place in January of 2025, and t
 * Devin Becker (University of Idaho Library)
 * Jeremy Brett (Cushing Memorial Library & Archives, Texas A&M University)
 * Michelle Dalmau (Indiana University Bloomington)
-* Jewon Woo (Lorain County Community COllege)
+* Jewon Woo (Lorain County Community College)
 * Dez Miller (Emory University)
 * Laure Thompson (Princeton University)
-* Ted Underwood (UIUC)
+* Ted Underwood (University of Illinois Urbana Champagne)
 * Phoenix Alexander (University of California, Riverside)
 * Elspeth Healey (University of Kansas)
 * Jennifer Weintraub (Schlesinger Library, Harvard University)
@@ -68,12 +66,9 @@ The National Forum's opening convening will take place in January of 2025, and t
 * Joi Waller, Graphic Designer
 * Michael Ernst, Graduate Research Assistant 
 
-# Science Fiction Collecting Libraries Consortium Representatives
+# Science Fiction Collection Libraries Consortium Representatives
 * [Elspeth Healey](https://spencer.lib.ku.edu/elspeth-healey), Special Collections Curator, University of Kansas Spencer Library
 * [Jeremy Brett](https://cushing.library.tamu.edu/collecting/scifi.html), Special Collections, Texas A&M Libraries
-
-## Partners
-[Science Fiction Collecting Libraries Consortium](http://sfspecialcollections.pbworks.com/w/page/75814541/About%20the%20SciFi%20Collection%20Libraries%20Consortium%20%28SFCLC%29)
 
 ![image](/images/sf_book_viz.png)
 
@@ -87,5 +82,6 @@ The [Loretta C. Duckworth Scholars Studio](https://library.temple.edu/lcdss)  pa
 
 For an exhibit of SF book covers from the Paskow collection, visit our companion [Omeka site]( https://lcdssgeo.com/omeka-s/s/scifi/page/digitizing-science-fiction).
 
-# Science Fiction Collecting Libraries Consortium (SFCLC)
+# Science Fiction Collection Libraries Consortium (SFCLC)
+[Website for Science Fiction Collection Libraries Consortium](http://sfspecialcollections.pbworks.com/w/page/75814541/About%20the%20SciFi%20Collection%20Libraries%20Consortium%20%28SFCLC%29)
 The SFCLC comprises a series of special collections across North America and England focusing on preserving and expanding access to the history of science fiction publishing. The SF Nexus aspires to leverage the SFCLC's holdings to create larger science fiction datasets that can be shared through member-supported repositories like HathiTrust Digital Library and through digital scholarship centers at these universities.
