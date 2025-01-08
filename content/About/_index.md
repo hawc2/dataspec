@@ -25,7 +25,7 @@ The National Forum's opening convening will take place in January of 2025, and t
 
 ## Legal Team
 * [Rachael Samberg](https://www.lib.berkeley.edu/help/staff-directory/rachael-samberg), Scholarly Communication Officer, Berkeley Library
-* [Brandon Butler](https://www.library.virginia.edu/staff/bcb4y), Director of Intellectual Property and Licensing, University of Virginia Library
+* Brandon Butler, Executive Director, Re:Create Coalition 
 * [Peter Jaszi](https://www.wcl.american.edu/community/faculty/profile/jaszi/bio), Professor of Law Emeritus, American University Washington College of Law
 
 # Practitioners Advisory Board
