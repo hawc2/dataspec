@@ -15,4 +15,8 @@ canonifyURLS=true
   name = 'Events'
   pageRef = '/Events'
   weight = 3
+[[menu.main]]
+  name = 'People'
+  pageRef = '/people'
+  weight = 4
 
