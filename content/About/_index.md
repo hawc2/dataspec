@@ -29,7 +29,7 @@ The National Forum's opening convening will take place in January of 2025, and t
 * [Peter Jaszi](https://www.wcl.american.edu/community/faculty/profile/jaszi/bio), Professor of Law Emeritus, American University Washington College of Law
 
 # Practitioners Advisory Board
-* Thomas Padilla (Bristlecone Strategy)
+* Thomas Padilla (Authors Alliance and Bristlecone Strategy)
 * Giulia Osti (University College Dublin)
 * Zoe LeBlanc (University of Illinois Urbana-Champaign)
 * Grant Wythoff (Princeton University)
