@@ -19,9 +19,15 @@ Alex Wermer-Colan, Sarah Potvin, Peter Jaszi, Quinn Dombrowski, and Mark Algee-H
 Alex Wermer-Colan, Sarah Potvin, Rachael Samberg, and Brandon Butler
 *Digital Library Federation Forum* (2024) 
 
-"Copyrighted Collections as Data"
+“Digital Humanities Data Speculations.”
 Sarah Potvin and Alex Wermer-Colan
-[Texas Conference of Digital Libraries](https://tcdl2024.sched.com/) (2024)
+Lightning Talk (10 minutes)
+[Texas Conference of Digital Libraries](https://tcdl2024.sched.com/) ( May 2024), Austin, TX.
+
+“Copyrighted Collections as Data.” 
+Sarah Potvin and Alex Wermer-Colan. 
+Idea Lab (60 minutes). 
+[Texas Conference of Digital Libraries](https://tcdl2024.sched.com/) (May 2024), Austin, TX.
 
 ## Relevant Scholarship and Resources
 Relevant scholarship to the National Forum includes recent work in copyright law, digital humanities, and related fields in GLAM.
