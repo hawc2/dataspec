@@ -18,34 +18,34 @@ menu:
 ## Legal Team
 * [Rachael Samberg](https://www.lib.berkeley.edu/help/staff-directory/rachael-samberg), Scholarly Communication Officer, Berkeley Library
 * Brandon Butler, Executive Director, Re:Create Coalition 
-* [Peter Jaszi](https://www.wcl.american.edu/community/faculty/profile/jaszi/bio), Professor of Law Emeritus, American University Washington College of Law
+* [Peter Jaszi]([https://www.wcl.american.edu/community/faculty/profile/jaszi/bio](https://www.usefairuse.com/about)), Professor of Law Emeritus, American University Washington College of Law
 
 # Practitioners Advisory Board
-* Thomas Padilla (Authors Alliance and Bristlecone Strategy)
-* Giulia Osti (University College Dublin)
-* Zoe LeBlanc (University of Illinois Urbana-Champaign)
-* Grant Wythoff (Princeton University)
-* Glen Layne-Worthey (University of Illinois Urbana-Champaign)
-* Melanie Walsh (University of Washington)
-* Quinn Dombrowski (Stanford University)
-* Devin Becker (University of Idaho Library)
-* Jeremy Brett (Cushing Memorial Library & Archives, Texas A&M University)
-* Michelle Dalmau (Indiana University)
-* Jewon Woo (Lorain County Community College)
-* Dez Miller (Emory University)
-* Laure Thompson (Princeton University)
-* Ted Underwood (University of Illinois Urbana-Champaign)
-* Phoenix Alexander (University of California, Riverside)
-* Elspeth Healey (University of Kansas)
-* Jennifer Weintraub (Schlesinger Library, Harvard University)
-* Mark Algee-Hewitt (Stanford University)
-* Jajwalya Karajgikar (UPenn Libraries)
-* Iliana Burgos (Cornell University Library)
-* Megan Senseney (University of Arizona)
-* Kiran Mohammadi-Williams (Cornell University)
-* Ayesha K. Hardison (Indiana University, Bloomington)
-* Heather Froehlich (University of Arizona)
-* Clovis Gladstone (University of Chicago)
+* Phoenix Alexander, Jay Kay and Doris Klein Science Fiction Librarian, Special Collections & University Archives, University of California, Riverside
+* Mark Algee-Hewitt, Associate Professor of English, Stanford University
+* Devin Becker, Associate Dean, Research and Instruction, University of Idaho Library
+* Jeremy Brett, Curator of Science Fiction & Fantasy Collection, Cushing Memorial Library & Archives, Texas A&M University
+* Iliana Burgos, Emerging Data Practices Librarian, Cornell University Library
+* Michelle Dalmau, Associate Librarian and Director of Digital Collections and Digitization Services, Indiana University
+* Quinn Dombrowski, Academic Technology Specialist in Literatures, Cultures, and Languages, Center for Interdisciplinary Digital Research, Stanford University
+* Heather Froehlich, Assistant Specialist, Digital Scholarship, University of Arizona Libraries
+* Clovis Gladstone, Senior Research Associate and Associate Director of the Project for American and French Research on the Treasury of the French Language, University of Chicago
+* Ayesha K. Hardison, Associate Professor of English and Director of the History of Black Writing, Indiana University, Bloomington
+* Elspeth Healey, Special Collections Curator, Kenneth Spencer Research Library, University of Kansas
+* Jajwalya Karajgikar, Applied Data Science Librarian, University of Pennsylvania Libraries
+* Glen Layne-Worthey, Associate Director for Research Support Services, HathiTrust Research Center, University of Illinois Urbana-Champaign
+* Zoe LeBlanc, Assistant Professor, School of Information Sciences, University of Illinois Urbana-Champaign
+* Dez Miller, PhD Student, Department of Comparative Literature, Emory University
+* Kiran Mohammadi-Williams, Collections as Data Librarian, Cornell University
+* Giulia Osti, PhD Student, School of Information and Communication Studies, University College Dublin
+* Thomas Padilla, Public Interest AI Strategist at Authors Alliance and Founder of Bristlecone Strategy
+* Megan Senseney, Head, Research Engagement, University of Arizona Libraries
+* Laure Thompson, Research Software Engineer, Center for Digital Humanities, Princeton University
+* Ted Underwood, Professor, School of Information Sciences, University of Illinois Urbana-Champaign
+* Melanie Walsh, Assistant Professor, Information School, University of Washington
+* Jennifer Weintraub, Head of Digital Collections and Services, Schlesinger Library on the History of Women in America, Harvard University
+* Jewon Woo, Associate Professor, Department of English, Lorain County Community College
+* Grant Wythoff, Digital Humanities Strategist, Center for Digital Humanities, Princeton University
 
 # Copyright Advisory Board
 * Matthew Sag, Jonas Robitscher Professor of Law in Artificial Intelligence, Machine Learning, and Data Science, Emory University
@@ -54,9 +54,12 @@ menu:
 * Melissa Levine, Director, Copyright Office, University of Michigan Library
 * Rebecca Tushnet, Frank Stanton Professor of the First Amendment, Harvard Law School
 
-# Temple University Libraries Team
+# Temple University Libraries Staff
+* Joe Lucia, Dean of Libraries
+* Holly Tomren, Head, Metadata and Digitization Services
+* Michael Ernst, Graduate Research Assistant
 * Joi Waller, Graphic Designer
-* Michael Ernst, Graduate Research Assistant 
+* John Pyle, A/V Technician
 
 # Science Fiction Collection Libraries Consortium Representatives
 * [Elspeth Healey](https://spencer.lib.ku.edu/elspeth-healey), Special Collections Curator, University of Kansas Spencer Library
