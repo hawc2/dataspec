@@ -16,9 +16,9 @@ menu:
 * [Alex Wermer-Colan](https://library.temple.edu/people/alex-wermer-colan-ph-d), Academic and Research Director, Temple University Libraries, Loretta C. Duckworth Scholars Studio
 
 ## Legal Team
-* [Rachael Samberg](https://www.lib.berkeley.edu/help/staff-directory/rachael-samberg), Director, Scholarly Communication & Information Policy, University of California Berkeley Library
 * Brandon Butler, Executive Director, Re:Create Coalition 
 * [Peter Jaszi]([https://www.wcl.american.edu/community/faculty/profile/jaszi/bio](https://www.usefairuse.com/about)), Professor of Law Emeritus, American University Washington College of Law
+* [Rachael Samberg](https://www.lib.berkeley.edu/help/staff-directory/rachael-samberg), Director, Scholarly Communication & Information Policy, University of California Berkeley Library
 
 # Practitioners Advisory Board
 * *Phoenix Alexander*, Jay Kay and Doris Klein Science Fiction Librarian, Special Collections & University Archives, University of California, Riverside
@@ -48,10 +48,10 @@ menu:
 * *Grant Wythoff*, Digital Humanities Strategist, Center for Digital Humanities, Princeton University
 
 # Copyright Advisory Board
-* *Matthew Sag*, Jonas Robitscher Professor of Law in Artificial Intelligence, Machine Learning, and Data Science, Emory University
 * *Laura Quilter*, Copyright & Information Policy Librarian, UMass Amherst Libraries
-* *Guy A. Rub*, Vincent J. Marella Professor of Law, Temple University Beasley School of Law
 * *Melissa Levine*, Director, Copyright Office, University of Michigan Library
+* *Guy A. Rub*, Vincent J. Marella Professor of Law, Temple University Beasley School of Law
+* *Matthew Sag*, Jonas Robitscher Professor of Law in Artificial Intelligence, Machine Learning, and Data Science, Emory University
 * *Rebecca Tushnet*, Frank Stanton Professor of the First Amendment, Harvard Law School
 
 # Temple University Libraries Staff
@@ -59,8 +59,8 @@ menu:
 * *Holly Tomren*, Head, Metadata and Digitization Services
 * *Michael Ernst*, Graduate Research Assistant
 * *Joi Waller*, Graphic Designer
-* *John Pyl*e, A/V Technician
+* *John Pyle*, A/V Technician
 
 # Science Fiction Collection Libraries Consortium Representatives
-* [Elspeth Healey](https://spencer.lib.ku.edu/elspeth-healey), Special Collections Curator, University of Kansas Spencer Library
 * [Jeremy Brett](https://cushing.library.tamu.edu/collecting/scifi.html), Special Collections, Texas A&M Libraries
+* [Elspeth Healey](https://spencer.lib.ku.edu/elspeth-healey), Special Collections Curator, University of Kansas Spencer Library
