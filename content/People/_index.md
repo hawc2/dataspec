@@ -16,7 +16,7 @@ menu:
 * [Alex Wermer-Colan](https://library.temple.edu/people/alex-wermer-colan-ph-d), Academic and Research Director, Temple University Libraries, Loretta C. Duckworth Scholars Studio
 
 ## Legal Team
-* [Rachael Samberg](https://www.lib.berkeley.edu/help/staff-directory/rachael-samberg), Scholarly Communication Officer, Berkeley Library
+* [Rachael Samberg](https://www.lib.berkeley.edu/help/staff-directory/rachael-samberg), Director, Scholarly Communication & Information Policy, University of California Berkeley Library
 * Brandon Butler, Executive Director, Re:Create Coalition 
 * [Peter Jaszi]([https://www.wcl.american.edu/community/faculty/profile/jaszi/bio](https://www.usefairuse.com/about)), Professor of Law Emeritus, American University Washington College of Law
 
