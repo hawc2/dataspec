@@ -19,6 +19,40 @@ By gathering a dedicated community of practice at a National Forum, hosting publ
 
 The National Forum's opening convening will take place in January of 2025, and the project will feature a series of additional events over the 2025 year.
 
+The National Forum schedule for the closed January 2025 convening of practitioners in copyrighted collections as data is as follows:
+
+*Day 1 - Monday, January 13, 2025*
+*Introduction to Data Speculations*
+
+Forum Opening
+
+Overview of Forum and Goals
+
+Workshop: Legal Frameworks for Copyright and Access
+
+*Day 2 - Tuesday, January 14, 2025*
+*SF Nexus: Testimonials from Curators and Researchers*
+
+Panel: Science Fiction Collection Libraries Consortium
+
+Lightning Talks: Digital Humanities and Science Fiction
+
+Keynote: Copyrighted Cultural Analytics - by Ted Underwood (UIUC)
+
+*Day 3 - Wednesday, January 15, 2025*
+*Copyrighted Collections as Data: Legal Obstacles, Problems and Opportunities*
+
+Panel: Curating Copyrighted Literature as Data
+
+Roundtable: Large-Scale Copyrighted Collections as Data in the Age of AI
+
+*Day 4 - Thursday, January 16, 2025*
+*Risks and Opportunities with Copyrighted Collections as Data*
+
+Working Session: The Value Proposition of Copyrighted Collections as Data
+
+Working Session: The Future of Library Stewardship of Copyrighted Collections as Data
+
 ![image](/images/sf_book_viz.png)
 
 # SF Nexus
