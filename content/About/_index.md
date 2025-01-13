@@ -21,50 +21,50 @@ The National Forum's opening convening will take place in January of 2025, and t
 
 The National Forum schedule for the closed January 2025 convening of practitioners in copyrighted collections as data is as follows:
 
-*Day 1 - Monday, January 13, 2025*
+**Day 1 - Monday, January 13, 2025**
 *Introduction to Data Speculations*
 
 Forum Opening
 
-Overview of Forum and Goals
+*Overview*: Forum and Goals
 
-Workshop: Legal Frameworks for Copyright and Access
+*Workshop*: Legal Frameworks for Copyright and Access
 
-*Day 2 - Tuesday, January 14, 2025*
+**Day 2 - Tuesday, January 14, 2025**
 *SF Nexus: Testimonials from Curators and Researchers*
 
-Panel: Science Fiction Collection Libraries Consortium
+*Panel*: Science Fiction Collection Libraries Consortium
 
-Lightning Talks: Digital Humanities and Science Fiction
+*Lightning Talks*: Digital Humanities and Science Fiction
 
-Keynote: Copyrighted Cultural Analytics - by Ted Underwood (UIUC)
+*Keynote*: Copyrighted Cultural Analytics, by Ted Underwood (UIUC)
 
-*Day 3 - Wednesday, January 15, 2025*
+**Day 3 - Wednesday, January 15, 2025**
 *Copyrighted Collections as Data: Legal Obstacles, Problems and Opportunities*
 
-Panel: Curating Copyrighted Literature as Data
+*Panel*: Curating Copyrighted Literature as Data
 
-Roundtable: Large-Scale Copyrighted Collections as Data in the Age of AI
+*Roundtable*: Large-Scale Copyrighted Collections as Data in the Age of AI
 
-*Day 4 - Thursday, January 16, 2025*
+**Day 4 - Thursday, January 16, 2025**
 *Risks and Opportunities with Copyrighted Collections as Data*
 
-Working Session: The Value Proposition of Copyrighted Collections as Data
+*Working Session*: The Value Proposition of Copyrighted Collections as Data
 
-Working Session: The Future of Library Stewardship of Copyrighted Collections as Data
+*Working Session*: The Future of Library Stewardship of Copyrighted Collections as Data
 
 ![image](/images/sf_book_viz.png)
 
-# SF Nexus
+## SF Nexus
 The SF Nexus comprises a collaborative network of research and public libraries with collections of SF. The SF Nexus aspires to make a comprehensive dataset of science fiction literature. 
 
 For more information about the SF Nexus project, visit [sfnexus.io](https://sfnexus.io/). To learn more about SF Nexus' approach to data curation of literary texts, see Alex Wermer-Colan's and James Kopaczewski's article, ["The New Wave of Digital Collections: Speculating on the Future of Library Curation"](https://www.jstor.org/stable/45420508#metadata_info_tab_contents)(2022)
 
-## Paskow Science Fiction Collection, Temple University Special Collections Research Center
+### Paskow Science Fiction Collection, Temple University Special Collections Research Center
 The [Loretta C. Duckworth Scholars Studio](https://library.temple.edu/lcdss)  partnered with [Temple University Libraries’ Special Collections Research Center (SCRC)](https://library.temple.edu/scrc) and [Digital Library Initiatives (DLI)](https://digital.library.temple.edu/) to build a digitized corpus of copyrighted science fiction literature. Besides its voluminous [Urban Archives](https://library.temple.edu/collections/urban-archives), the SCRC also houses a significant collection of science-fiction literature. The [Paskow Science Fiction Collection](https://library.temple.edu/collections/paskow-science-fiction-collection-science-fiction-and-fantasy) was originally established in 1972, when Temple acquired 5,000 science fiction paperbacks from a Temple alumnus, the late David C. Paskow. 
 
 For an exhibit of SF book covers from the Paskow collection, visit our companion [Omeka site]( https://lcdssgeo.com/omeka-s/s/scifi/page/digitizing-science-fiction).
 
-# Science Fiction Collection Libraries Consortium (SFCLC)
+## Science Fiction Collection Libraries Consortium (SFCLC)
 [Website for Science Fiction Collection Libraries Consortium](http://sfspecialcollections.pbworks.com/w/page/75814541/About%20the%20SciFi%20Collection%20Libraries%20Consortium%20%28SFCLC%29)
 The SFCLC comprises a series of special collections across North America and England focusing on preserving and expanding access to the history of science fiction publishing. The SF Nexus aspires to leverage the SFCLC's holdings to create larger science fiction datasets that can be shared through member-supported repositories like HathiTrust Digital Library and through digital scholarship centers at these universities.
